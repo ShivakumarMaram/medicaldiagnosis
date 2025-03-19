@@ -17,5 +17,5 @@ The system uses Logistic Regression, Random Forest, and Support Vector Machine (
 -  streamlit_option_menu  
 ## deployment
 The app is deployed on Streamlit Cloud.
-https://medicaldiagnosis-file.streamlit.app/
+-  https://medicaldiagnosis-file.streamlit.app/
 
