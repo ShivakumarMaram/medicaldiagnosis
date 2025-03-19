@@ -15,4 +15,7 @@ The system uses Logistic Regression, Random Forest, and Support Vector Machine (
 -  Scikit-learn
 -  Pickle (for model serialization)
 -  streamlit_option_menu  
+## deployment
+The app is deployed on Streamlit Cloud.
+https://medicaldiagnosis-file.streamlit.app/
 
