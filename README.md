@@ -11,5 +11,8 @@ The system uses Logistic Regression, Random Forest, and Support Vector Machine (
 ## Technologies Used:
 -  Frontend: Streamlit (for building the interactive web interface).  
 -  Backend:Python (using Scikit-learn for machine learning models).  
--  Libraries:Pandas, NumPy, Matplotlib, and joblib (for model loading and prediction).  
+-  Libraries:Pandas, NumPy, Matplotlib, and joblib (for model loading and prediction).
+-  Scikit-learn
+-  Pickle (for model serialization)
+-  streamlit_option_menu  
 
